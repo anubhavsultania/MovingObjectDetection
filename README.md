@@ -41,6 +41,3 @@ Moving object detection is a technique used in computer vision and image process
           * Creating cap and getting total frame count
           * Running a Loop to go through all frames and process the Video
      
-# Output :
-
-To see the output video, go to the media file and check the output video
